@@ -1,5 +1,4 @@
 import React, { useState } from 'react'; // 🛠️ You were missing useState import
-import './App.css';
 import InputBox from './components/InputBox';
 import useCurrencyInfo from './hooks/useCurrencyinfo';
 
